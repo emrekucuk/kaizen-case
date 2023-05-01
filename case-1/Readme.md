@@ -1,0 +1,4 @@
+### İstenilen case çalışması için gerekli çalışma webapi olarak yapılmıştır.
+
+### http://localhost:5149/swagger üzerinden Kodları oluşturmak için GenerateCodes endpointi kullanılır. Oluşturulan kodların kontrolü için ise CheckCode kullanıllır.
+

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "70/EEaKIcPl/Z2BHa8eTwsCrRf7iLBDZ5M2ocEvbgA4kUDDnJdt6LwjboiQUZ9Ihiu5nYKYR8LlIFJBm4B5glw==",
+  "success": true,
+  "projectFilePath": "/home/emre/workspace/dotnet/kaizen-case/case-2/case-2.csproj",
+  "expectedPackageFiles": [
+    "/home/emre/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
